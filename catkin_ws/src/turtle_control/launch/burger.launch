@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="turtle_control" name="burger" type="obstacles.py"/>
+</launch>

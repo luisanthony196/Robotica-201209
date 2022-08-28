@@ -1,0 +1,16 @@
+<package>
+  <description brief="turtle_control">
+
+     turtle_control
+
+  </description>
+  <author>linux</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/turtle_control</url>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="turtlebot3_gazebo"/>
+
+</package>
